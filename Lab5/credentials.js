@@ -1,2 +1,0 @@
-module.exports.apikey = 'fa47add286c28e4eb702dca5879a32bd'
-module.exports.apikey2 = 'pk.eyJ1IjoiYTAxMDM2MTkzIiwiYSI6ImNqdThqcjdxbDAwaWw0ZHQ3NmU2NTk1OWoifQ.tMY3_zmAUZaDjv6_xGoKUA'
